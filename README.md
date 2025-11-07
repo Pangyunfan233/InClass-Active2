@@ -1,11 +1,14 @@
 Self-Evaluation
-In today's class, I completed all the example shaders during the actual coding process, including Ripple, Diffuse + Shadow, Glass, Water, and UV Scroll. Besides simply
-typing the code, I also experimented with additional adjustments. For example, I
-modified the _ScaleUVX and _ScaleUVY parameters to observe changes in ripple
-density, changed the Fresnel intensity to compare different edge reflection effects, and
-adjusted the water surface amplitude and speed to simulate different wave rhythms. These extra experiments helped deepen my understanding of parameterized control of
-shaders. Then, after encountering compilation errors, I looked up how to fix them, such as the missing vert and frag functions in my Glass shader. Overall, I think I learned a lot more about these complex shaders in this class. My
-personal favorite is the shader combining water and foam, and I also gained a better
+In today's class, I completed all the example shaders during the actual coding process, including Ripple, Diffuse + Shadow, Glass, Water, and UV Scroll.
+Besides simply typing the code, I also experimented with additional adjustments. For example, 
+I modified the _ScaleUVX and _ScaleUVY parameters to observe changes in ripple
+density, changed the Fresnel intensity to compare different edge reflection effects, 
+and adjusted the water surface amplitude and speed to simulate different wave rhythms. 
+These extra experiments helped deepen my understanding of parameterized control of
+shaders. Then, after encountering compilation errors, I looked up how to fix them, 
+such as the missing vert and frag functions in my Glass shader. Overall,
+I think I learned a lot more about these complex shaders in this class. 
+My personal favorite is the shader combining water and foam, and I also gained a better
 understanding of the mathematical principles behind other shaders. Task Completion
 I successfully implemented the five shader effects from the class:
 Ripple Shader – Uses functions to distort UV coordinates to create a water ripple
